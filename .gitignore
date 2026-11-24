@@ -1,0 +1,7 @@
+# Clave de TMDB para uso local: nunca se sube
+js/config.local.js
+
+# Variables de entorno y configuración local de herramientas
+.env*
+.vercel/
+.claude/
